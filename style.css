@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.heading{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+    color:rgb(181, 196, 211);
+margin: 0px;
+font-size: 2.5rem;
+padding-bottom: 2%;
+
+}
+
+.heading2{
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: 3px;
+   
+margin: 0px;
+font-size: 2.5rem;
+padding-bottom: 2%;
+}
+.nav-item{
+    margin-right:30px;
+  }
+.boxes{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.first{
+    
+    padding: 5%;
+}
+.second{
+    padding: 5%;
+    background-color: #DFF6FF;
+}
+.contact{
+    padding-top: 4%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: #FFA1CF;
+}
+.wattsapp{
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+    width: 50px;
+}
+.logo{
+    width: 40%;
+    position: relative;
+    left: 80px;
+    padding-top: 3%;
+}

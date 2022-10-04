@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+}
+
+.head{
+    font-family: 'Special Elite', cursive;
+text-align: center;
+color: white;
+font-size: 4rem;
+}
+.head2{
+    font-family: 'Special Elite', cursive;
+text-align: center;
+color: rgb(247, 185, 185);
+font-size: 4rem;
+}
+.info{
+    font-family: 'Gloria Hallelujah', cursive;
+    margin: 2% 30% 2% 30%;
+    font-size: 1.5rem;
+    color: rgb(80, 76, 76);
+  margin-bottom: 5%;
+}
+.about-img{
+    width: 25%;
+    height: 25%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.wattsapp{
+    position: fixed;
+    bottom: 40px;
+    right: 10px;
+   
+}
